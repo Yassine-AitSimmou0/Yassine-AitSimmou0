@@ -71,7 +71,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yassine-AitSimmou0/Yassine-AitSimmou0/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+
 
 ###
 
