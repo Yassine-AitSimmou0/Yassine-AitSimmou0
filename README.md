@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRpcThxNnNveTNteGo3cmxiYzZkM3FvdGU1a3JwNnIzZGhhcm85dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1154CgmtPPa4lq/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -61,7 +57,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/yassine_aitsimmou0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -75,11 +71,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yassine-AitSimmou0/Yassine-AitSimmou0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yassine-AitSimmou0/Yassine-AitSimmou0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yassine-AitSimmou0/Yassine-AitSimmou0/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Yassine-AitSimmou0/Yassine-AitSimmou0/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRpcThxNnNveTNteGo3cmxiYzZkM3FvdGU1a3JwNnIzZGhhcm85dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1154CgmtPPa4lq/giphy.gif"  />
+</div>
 
 ###
 
