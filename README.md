@@ -71,12 +71,6 @@
 
 ###
 
-<br clear="both">
-
-
-
-###
-
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRpcThxNnNveTNteGo3cmxiYzZkM3FvdGU1a3JwNnIzZGhhcm85dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1154CgmtPPa4lq/giphy.gif"  />
 </div>
